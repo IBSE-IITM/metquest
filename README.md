@@ -15,12 +15,11 @@ Authors
 -   Meghana Nasre
 -   [Karthik Raman](https://github.com/karthikraman)
 
-Acknowledgments
+Citing MetQuest
 ===============
 
-This work was supported by the Indian Institute of Technology Madras
-grant ERP/1314/004/RESF/KARH to KR and the INSPIRE fellowship,
-Department of Science and Technology, Government of India to AR.
+If you use MetQuest in your work, please cite
+>Ravikrishnan, A., Nasre, M., & Raman, K. (2018) "Enumerating all possible biosynthetic pathways in metabolic networks" _Scientific Reports_ [doi:10.1038/s41598-018-28007-7](http://www.nature.com/articles/s41598-018-28007-7)
 
 Installation
 ------------
@@ -118,3 +117,12 @@ In the python console, type the following
 ```
 
 This will run the example files.
+
+Acknowledgments
+===============
+
+This work was supported by the Indian Institute of Technology Madras
+grant ERP/1314/004/RESF/KARH to KR and the INSPIRE fellowship,
+Department of Science and Technology, Government of India to AR.
+
+<img title="IBSE logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/IBSE_logo.png" height="200" width="200"><img title="RBC-DSAI logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/logo.jpg" height="200" width="351">
